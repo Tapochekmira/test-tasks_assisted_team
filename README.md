@@ -26,10 +26,10 @@
 
 ## Инструкция по использованию
 После запусска надо выбрать необходимое действие при помощи ввода соответствующего числа.
--Enter -1 to exit
--Enter 0 to get all flights from DXB to BKK
--Enter 1 to get flight with the max and min cost
--Enter 2 to get flight with the max and min duration
+- Enter -1 to exit
+- Enter 0 to get all flights from DXB to BKK
+- Enter 1 to get flight with the max and min cost
+- Enter 2 to get flight with the max and min duration
 
 ## Цели проекта
 
